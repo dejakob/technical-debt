@@ -1,4 +1,4 @@
-# technical-debt
+# Technical debt
 
 Since I started to like writing blogs, I think it became around time to write one about one of my favorite topics: technical debt. Before you read this, note that I'm not a manager, that I don't know anything about economics and that I'm only sharing my own thoughts here. It's ok to disagree with me, but now you have at least the ability to read my point of view.
 

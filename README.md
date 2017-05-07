@@ -31,5 +31,7 @@ Whenever you start to notice the company is paralyzed, you're in deep trouble. U
 I hope I explained my point of view well.
 Thanks for reading!
 
+
+
 Greets,
 Jakez
